@@ -1,0 +1,1 @@
+This repo is for the NMIT HACK 22 hackthon
